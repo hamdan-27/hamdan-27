@@ -54,7 +54,7 @@
 ### 📊 My Stats
 <div align="center">
   <a href="https://git.io/streak-stats">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=hamdan-27)](https://git.io/streak-stats)
+  <img src="https://streak-stats.demolab.com/?user=hamdan-27">
   </a>
 </div>
 
