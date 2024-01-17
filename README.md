@@ -13,14 +13,13 @@
   <a href="https://www.linkedin.com/in/hamdan-mohammad-718400200/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <!-- <a href="https://yourwebsite.com">
-      <img src="https://img.shields.io/badge/Website-Visit-blueviolet?style=for-the-badge&logo=firefox-browser" alt="Website">
-  </a> -->
+  
+  <!-- <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /> -->
 </div>
 
 <!-- About Me Section -->
 <div align="center">
-  <h2>Python Developer | Computer Science Student | AI Enthusiast</h2>
+  <h3>Python Developer | Computer Science Student | AI Enthusiast</h2>
 </div>
 
 <!-- Skills Section -->
@@ -47,15 +46,16 @@
 </div>
 
 <!-- Projects Section -->
-<!-- <div>
-  <h2>Projects</h2>
-  <p>[Provide an overview of your best projects. Add links to the repositories or live demos.]</p>
-</div> -->
+
 ### 📊 My Stats
 <div align="center">
-  <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=hamdan-27">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hamdan-27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hamdan-27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  
+  <!-- <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hamdan-27&theme=dark&date_format=M%20j%5B%2C%20Y%5D"
+      alt="GitHub Streak" />
+  </a> -->
 </div>
 
 <!-- Contact Section -->
