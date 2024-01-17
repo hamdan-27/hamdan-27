@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hamdan-27/hamdan-27/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/hamdan-27/hamdan-27/output/snake.svg" alt="Snake animation" /> -->
 
 <!-- Contact Section -->
 <div align="center">
@@ -70,7 +70,7 @@
   <p>If you're interested in collaborating or just want to chat, don't hesitate to reach out!</p>
   <a href="mailto:hamdan102703@gmail.com">hamdan102703@gmail.com</a>
 </div>
-
+<br>
 <!-- Footer -->
 <div align="center">
   <p>⭐️ From hamdan-27</p>
