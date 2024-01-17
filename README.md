@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Profile Picture" style="border-radius:50%">
   <h1>Hello, I'm Hamdan Mohammad! <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   <p>I'm a Software Developer. Passionate about Python and AI.</p>
