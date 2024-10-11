@@ -62,7 +62,7 @@
 
 <br clear="both">
 
-<!-- <img src="https://raw.githubusercontent.com/hamdan-27/hamdan-27/output/snake.svg" alt="Snake animation" /> -->
+<img src="https://raw.githubusercontent.com/hamdan-27/hamdan-27/output/snake.svg" alt="Snake animation" />
 
 <!-- Contact Section -->
 <div align="center">
