@@ -61,9 +61,9 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/hamdan-27/hamdan-27/output/snake.svg" alt="Snake animation" />
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hamdan-27/hamdan-27/output/snake.svg" alt="Snake animation" />
+</div>
 <!-- Contact Section -->
 <div align="center">
   <h2>Contact Me</h2>
