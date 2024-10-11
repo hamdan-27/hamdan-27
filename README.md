@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hello, I'm Hamdan Mohammad! <img
     src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  <p>I'm a Software Developer. Passionate about Python and AI.</p>
+  <p>I'm a Software Developer. Passionate about Python, Web Dev, and AI.</p>
 </div>
 
 <!-- Social Links -->
