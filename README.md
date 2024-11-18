@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/twitter/follow/hxmdxn_x?style=for-the-badge&logo=x&label=Twitter"
       alt="Twitter Follow">
   </a>
-  <a href="https://www.linkedin.com/in/hamdan-mohammad-718400200/">
+  <a href="https://www.linkedin.com/in/hamdan27/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   
