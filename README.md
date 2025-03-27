@@ -32,9 +32,10 @@
   <h2>Skills</h2>
   <p align="center">
     <img src="https://img.icons8.com/color/96/000000/python.png" alt="Python" style="margin: 10px;">
-    <img src="https://img.icons8.com/color/96/000000/chatgpt.png" alt="JavaScript (JS)" style="margin: 10px;">
+    <img src="https://img.icons8.com/color/96/000000/chatgpt.png" alt="OpenAI" style="margin: 10px;">
+    <img src="https://img.icons8.com/?size=100&id=H5H0mqCCr5AV&format=png&color=000000" alt="Claude" style="margin: 10px;">
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastAPI" width="85px" style="margin: 10px; padding-bottom: 5px;">
-    <img src="https://img.icons8.com/color/96/000000/flask.png" alt="Flask" style="margin: 10px;">
+    <img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" alt="Flask" style="margin: 10px;">
     <img src="https://img.icons8.com/?size=85&id=EPbEfEa7o8CB&format=png" alt="Postman" style="margin: 10px; padding-bottom: 5px;">
     <img src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" style="margin: 10px;">
