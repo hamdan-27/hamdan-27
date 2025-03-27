@@ -41,12 +41,14 @@
     <img src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/javascript.png" alt="JavaScript (JS)" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/php.png" alt="php" style="margin: 10px;">
+    <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="Postgres" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/my-sql.png" alt="my-sql" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/git.png" alt="git" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/github.png" alt="github" style="margin: 10px;">
     <img src="https://img.icons8.com/fluency/96/000000/figma.png" alt="figma" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/visual-studio-code-2019.png" alt="VS Code" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/docker.png" alt="Docker" style="margin: 10px;">
+    <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS" style="margin: 10px;">
     <img src="https://img.icons8.com/color/96/000000/jira.png" alt="JIRA" style="margin: 10px;">
   </p>
 </div>
